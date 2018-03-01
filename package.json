@@ -1,0 +1,16 @@
+{
+  "name": "node-impala-orm",
+  "version": "0.0.1",
+  "dependencies": {
+    "generic-pool": "^3.1.7",
+    "node-impala-beeswax": "git+https://github.com/Fedomn/node-impala-beeswax.git",
+    "lodash": "^4.17.4",
+    "glob": "^7.1.1"
+  },
+  "devDependencies": {
+    "@types/generic-pool": "^3.1.0",
+    "@types/glob": "^5.0.35",
+    "@types/lodash": "^4.14.104",
+    "@types/node": "^7.0.12"
+  }
+}
